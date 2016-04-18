@@ -1,6 +1,7 @@
 app.controller('HomeCtrl', ['$scope', '$q', function($scope, $q) {
     $scope.checkNumberDefer = function(number) {
         var q = $q.defer();
+        //Async call happens here, after which its resolved.
         if (angular.isNumber(number)) {
             q.resolve("Yo this shit is right!")
         } else {
