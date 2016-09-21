@@ -9,6 +9,10 @@ framework and a bunch of development and testing tools for instant web developme
 
 The seed app doesn't do much, just shows how to wire two controllers and views together.
 
+##Important Links
+https://www.quora.com/What-are-some-AngularJS-interview-questions
+https://www.quora.com/What-questions-are-asked-in-an-AngularJS-interview-for-a-software-engineer
+http://tutorials.jenkov.com/angularjs/watch-digest-apply.html
 
 ## Getting Started
 
