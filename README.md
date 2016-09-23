@@ -11,8 +11,14 @@ The seed app doesn't do much, just shows how to wire two controllers and views t
 
 ##Important Links
 https://www.quora.com/What-are-some-AngularJS-interview-questions
+
 https://www.quora.com/What-questions-are-asked-in-an-AngularJS-interview-for-a-software-engineer
+
 http://tutorials.jenkov.com/angularjs/watch-digest-apply.html
+
+https://devdactic.com/improving-rest-with-ngresource/
+
+https://scotch.io/tutorials/angular-routing-using-ui-router
 
 ## Getting Started
 
